@@ -7,9 +7,9 @@
 // @match        http://10.48.9.239/mars_ntw/*
 // @grant        none
 // @run-at       document-start
-// @homepage     https://github.com/yourusername/ticketwatcher-wa2
-// @updateURL    https://github.com/yourusername/ticketwatcher-wa2/raw/main/ticketwatcher.user.js
-// @downloadURL  https://github.com/yourusername/ticketwatcher-wa2/raw/main/ticketwatcher.user.js
+// @homepage     https://github.com/turiliffiu/ticketwatcher
+// @updateURL    https://github.com/turiliffiu/ticketwatcher/raw/main/ticketwatcher.user.js
+// @downloadURL  https://github.com/turiliffiu/ticketwatcher/raw/main/ticketwatcher.user.js
 // ==/UserScript==
 
 (function () {
