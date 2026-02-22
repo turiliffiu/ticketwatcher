@@ -1139,4 +1139,4 @@ Per problemi tecnici:
 
 ---
 
-*Documentazione TicketWatcher WA2 v2.4.1 - Febbraio 2026 - Testato e funzionante in produzione*
+*Documentazione TicketWatcher v2.4.1 - Febbraio 2026 - Testato e funzionante in produzione*
