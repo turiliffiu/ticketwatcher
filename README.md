@@ -1,4 +1,4 @@
-# TicketWatcher WA2
+# TicketWatcher
 
 > Sistema di notifica multi-canale per applicazione MARS - Rilevamento automatico nuove richieste di assistenza
 
