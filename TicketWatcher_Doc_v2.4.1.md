@@ -1,6 +1,6 @@
-# TicketWatcher WA2 — Documentazione Finale v2.4.1
+# TicketWatcher — Documentazione Finale v2.4.1
 
-> Sistema di notifica multi-canale per richieste di assistenza MARS WA2
+> Sistema di notifica multi-canale per richieste di assistenza MARS
 
 ---
 
@@ -63,22 +63,22 @@ Script JavaScript iniettato tramite Tampermonkey che attiva **4 canali di notifi
                             │ HTML con contatore WA2
                             ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                   Browser Chrome/Edge                        │
+│                   Browser Chrome/Edge                       │
 │  ┌───────────────────────────────────────────────────────┐  │
 │  │              Tampermonkey Extension                   │  │
 │  │  ┌─────────────────────────────────────────────────┐  │  │
-│  │  │         TicketWatcher v2.4.1 Script          │  │  │
+│  │  │         TicketWatcher v2.4.1 Script             │  │  │
 │  │  │                                                 │  │  │
-│  │  │  • DOM Observer (controlla elemento)          │  │  │
-│  │  │  • Fetch Polling (ogni 30s)                   │  │  │
-│  │  │  • localStorage (persistenza valore)          │  │  │
-│  │  │  • Meta refresh blocker                       │  │  │
-│  │  │  • Smart decrement detection                  │  │  │
+│  │  │  • DOM Observer (controlla elemento)            │  │  │
+│  │  │  • Fetch Polling (ogni 30s)                     │  │  │
+│  │  │  • localStorage (persistenza valore)            │  │  │
+│  │  │  • Meta refresh blocker                         │  │  │
+│  │  │  • Smart decrement detection                    │  │  │
 │  │  └─────────────────────────────────────────────────┘  │  │
 │  └───────────────────────────────────────────────────────┘  │
-│                            │                                 │
+│                            │                                │
 │         Quando rileva incremento contatore                  │
-│                            ▼                                 │
+│                            ▼                                │
 │  ┌─────────────┬──────────────┬──────────────┬───────────┐  │
 │  │   Popup     │   Beep       │  OS Notif    │   TTS     │  │
 │  │   Rosso     │   x10        │  Windows     │   Voce    │  │
@@ -242,7 +242,7 @@ Copia questo script completo nell'editor Tampermonkey e salva con `Ctrl+S`:
 
 ```javascript
 // ==UserScript==
-// @name         TicketWatcher WA2 v2.4.1 FINAL
+// @name         TicketWatcher v2.4.1 FINAL
 // @namespace    http://tampermonkey.net/
 // @version      2.4.1
 // @description  Polling aggressivo + localStorage persistente + gestione decrementi
@@ -1129,7 +1129,7 @@ Per problemi tecnici:
 
 ### Crediti
 
-- **Progetto**: TicketWatcher WA2
+- **Progetto**: TicketWatcher
 - **Target**: Applicazione MARS - FiberCop TGS
 - **Ambiente**: `http://10.48.9.239/mars_ntw/giac_cap.php`
 - **Tecnologie**: JavaScript, Tampermonkey, Web Audio API, Notifications API, Speech Synthesis API, localStorage
