@@ -2,7 +2,7 @@
 
 > Sistema di notifica multi-canale per applicazione MARS - Rilevamento automatico nuove richieste di assistenza
 
-[![Version](https://img.shields.io/badge/version-2.4.1-green.svg)](https://github.com/yourusername/ticketwatcher-wa2)
+[![Version](https://img.shields.io/badge/version-2.4.1-green.svg)](https://github.com/turiliffiu/ticketwatcher)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-compatible-orange.svg)](https://www.tampermonkey.net/)
 
@@ -156,7 +156,7 @@ Questo progetto è rilasciato sotto licenza MIT. Vedi [`LICENSE`](LICENSE) per d
 ## 👤 Autore
 
 **Salvo**  
-Progetto: TicketWatcher WA2  
+Progetto: TicketWatcher  
 Target: Applicazione MARS - FiberCop TGS
 
 ---
