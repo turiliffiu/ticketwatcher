@@ -1076,6 +1076,9 @@ ttsMessaggio: 'Operatore, nuova Mars urgente in arrivo!',
 ### Q12: Cosa succede se cancello i dati del browser?
 Perdi il valore salvato in localStorage. Alla prossima apertura lo script ripartirà dal valore attuale come "nuovo inizio".
 
+### Q13: Perché "Limited runtime host permissions"?
+Appare con "On specific sites". Normale — script funziona su siti autorizzati. Per eliminare: "Site access" → "On all sites".
+
 ---
 
 ## Checklist Installazione Completa
