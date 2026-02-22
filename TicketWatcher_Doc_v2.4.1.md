@@ -1,4 +1,4 @@
-# TicketWatcher WA2 — Documentazione v2.4.1
+# TicketWatcher — Documentazione v2.4.1
 
 > Sistema notifica multi-canale per MARS WA2
 
