@@ -88,7 +88,7 @@ Tampermonkey → Crea nuovo → Incolla script sezione 6 → Ctrl+S
 
 ```javascript
 // ==UserScript==
-// @name         TicketWatcher WA2 v2.4.1
+// @name         TicketWatcher v2.4.1
 // @version      2.4.1
 // @match        http://10.48.9.239/mars_ntw/*
 // @grant        none
