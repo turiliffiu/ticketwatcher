@@ -19,16 +19,16 @@
 1. [Panoramica](#1-panoramica)  
 2. [Come Funziona](#2-come-funziona)  
 3. [Prerequisiti](#3-prerequisiti)  
-4. [Installazione Tampermonkey](#4-installazione-tampermonkey) **← AGGIORNATO**
+4. [Installazione Tampermonkey](#4-installazione-tampermonkey)
 5. [Notifiche OS su HTTP](#5-notifiche-os-su-http)  
 6. [Script v2.4.1](#6-script-v241)  
 7. [Configurazione](#7-configurazione)  
-8. [Verifica](#8-verifica) **← AGGIORNATO**  
+8. [Verifica](#8-verifica)
 9. [Test](#9-test)  
 10. [Diagnostica](#10-diagnostica)  
 11. [Comandi Utili](#11-comandi-utili)  
-12. [Troubleshooting](#12-troubleshooting) **← AGGIORNATO**  
-13. [FAQ](#13-faq) **← AGGIORNATO**
+12. [Troubleshooting](#12-troubleshooting) 
+13. [FAQ](#13-faq)
 
 ---
 
